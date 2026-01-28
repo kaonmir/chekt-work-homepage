@@ -40,3 +40,6 @@
     - Keycloak:
         icon: /icons/keycloak.svg
         href: https://keycloak.chektdev.com
+    - Status:
+        icon: /icons/status.png
+        href: https://status.chekt.com

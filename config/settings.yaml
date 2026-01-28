@@ -46,11 +46,12 @@ layout:
 
   Grafana:
     iconsOnly: true
+
 headerStyle: clean
 quicklaunch:
   searchDescriptions: false
   hideInternetSearch: true
-  showSearchSuggestions: false
+  showSearchSuggestions: true
   hideVisitURL: true
   provider: ""
 
