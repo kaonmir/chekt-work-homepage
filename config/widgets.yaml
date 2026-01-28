@@ -2,11 +2,8 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/info-widgets/
 
-- resources:
-    cpu: true
-    memory: true
-    disk: /
-
-- search:
-    provider: duckduckgo
-    target: _blank
+- logo:
+    icon: /icons/chekt.png
+- greeting:
+    text_size: xl
+    text: The door to the Central Station

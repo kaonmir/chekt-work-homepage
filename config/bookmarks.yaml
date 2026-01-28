@@ -2,17 +2,24 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/bookmarks
 
-- Developer:
-    - Github:
-        - abbr: GH
-          href: https://github.com/
+- Grafana:
+  - Dev:
+      - icon: grafana.png
+        href: https://grafana.chektdev.com/
+  - QE:
+      - icon: grafana.png
+        href: https://grafana.chektqe.com/
+  - Prod:
+      - icon: grafana.png
+        href: https://grafana.chekt.com/
 
-- Social:
-    - Reddit:
-        - abbr: RE
-          href: https://reddit.com/
-
-- Entertainment:
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/
+- GitOps:
+  - Dev:
+      - icon: /icons/argocd.svg
+        href: https://gitops.chektdev.com
+  - QE:
+      - icon: /icons/argocd.svg
+        href: https://gitops.chektqe.com
+  - Prod:
+      - icon: /icons/argocd.svg
+        href: https://gitops.chekt.com
