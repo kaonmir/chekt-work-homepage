@@ -24,19 +24,15 @@ blockHighlights:
 
 layout:
   Dealer Portal:
-    tab: First
     style: row
     columns: 4
   Monitoring Portal:
-    tab: First
     style: row
     columns: 4
   End User Web:
-    tab: Second
     style: row
     columns: 4
   Console:
-    tab: Second
     style: row
     columns: 4
 
@@ -44,8 +40,20 @@ layout:
     style: row
     columns: 4
 
-  Grafana:
-    iconsOnly: true
+  Tools(By Env):
+    style: row
+    columns: 2
+
+    header: false
+    Kibana:
+      style: row
+      columns: 3
+    Grafana:
+      style: row
+      columns: 3
+    GitOps:
+      style: row
+      columns: 3
 
 headerStyle: clean
 quicklaunch:

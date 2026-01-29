@@ -69,3 +69,39 @@
     - Zoho (링크 잘 몰라요):
         icon: /icons/zoho.png
         href: https://www.zoho.com/
+    - Firebase:
+        icon: /icons/firebase.svg
+        href: https://console.firebase.google.com
+
+
+- Tools(By Env):
+    - Kibana:
+        - Dev:
+            icon: /icons/kibana.svg
+            href: https://kibana.chektdev.com
+        - QE:
+            icon: /icons/kibana.svg
+            href: https://kibana.chektqe.com
+        - Prod:
+            icon: /icons/kibana.svg
+            href: https://kibana.chekt.com
+    - Grafana:
+        - Dev:
+            icon: grafana.png
+            href: https://grafana.chektdev.com/
+        - QE:
+            icon: grafana.png
+            href: https://grafana.chektqe.com/
+        - Prod:
+            icon: grafana.png
+            href: https://grafana.chekt.com/
+    - GitOps:
+        - Dev:
+            icon: /icons/argocd.svg
+            href: https://gitops.chektdev.com
+        - QE:
+            icon: /icons/argocd.svg
+            href: https://gitops.chektqe.com
+        - Prod:
+            icon: /icons/argocd.svg
+            href: https://gitops.chekt.com
